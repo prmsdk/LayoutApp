@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LayoutApps</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reminder">Reminder</string>
+    <string name="btnRelative">Done</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="tombol">Tombol</string>
+    <string name="todo">TODO</string>
+    <string name="username2">Username :</string>
+    <string name="password2">Password :</string>
+    <string name="submit">Submit</string>
+    <string name="toast">Toast</string>
+    <string name="initextview">Ini Text View</string>
+</resources>
